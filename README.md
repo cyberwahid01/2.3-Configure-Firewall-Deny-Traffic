@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Compute and Networking 🪟 - Configure a Firewall (Deny Inbound ICMP Traffic)</h1>
-In this section I go through the process of observing continuous ICMP trafiic from our Ubuntu Linux VM to our Windows 10 VM. I then manually change inbound security rules (firewall) to block requests reaching the Linux VM, reverse this security rule and once again observe the flow of traffic between the two virtual machines. <br />
+In this section I go through the process of observing continuous ICMP trafiic from our Ubuntu Linux VM to our Windows 10 VM. I then manually change inbound security rules (firewall) to block requests reaching the Linux VM, reverse this security rule and once again observe the flow of traffic between the two virtual machines. <br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -65,3 +65,4 @@ In this section I go through the process of observing continuous ICMP trafiic fr
 <img src="https://imgur.com/LLnCKlK.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
